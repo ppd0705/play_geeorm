@@ -12,6 +12,9 @@ geeorm --- A ORM designed by geektutu
 - 实现struct和table之间的映射
 
 #### 第三天
+- 实现Clause生成SQL语句
+- 实现Find(row-->struct)和Insert(struct-->row): 
+
 #### 第四天
 #### 第五天
 #### 第六天
