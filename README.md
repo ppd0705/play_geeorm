@@ -16,6 +16,8 @@ geeorm --- A ORM designed by geektutu
 - 实现Find(row-->struct)和Insert(struct-->row): 
 
 #### 第四天
+- 实现UPDATE, DELETE, COUNT
+- 实现链式调用
 #### 第五天
 #### 第六天
 #### 第七天
