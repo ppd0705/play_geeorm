@@ -18,6 +18,8 @@ geeorm --- A ORM designed by geektutu
 #### 第四天
 - 实现UPDATE, DELETE, COUNT
 - 实现链式调用
+
 #### 第五天
+- 实现增删改查的钩子
 #### 第六天
 #### 第七天

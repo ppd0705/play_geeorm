@@ -94,3 +94,4 @@ $RECYCLE.BIN/
 ignoreme*
 *.retry
 */build
+gee.db
