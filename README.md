@@ -26,3 +26,4 @@ geeorm --- A ORM designed by geektutu
 - 实现事务
 
 #### 第七天
+- 实现Migrate
